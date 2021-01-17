@@ -13,4 +13,5 @@ public class MenuItem {
     private String desc;
     private ItemCategoryType itemCategoryType;
     private Double price;
+    private ItemStatus status;
 }
